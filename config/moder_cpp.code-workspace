@@ -1,0 +1,29 @@
+{
+    "extensions": {
+        "recommendations": [
+            "ms-vscode.cpptools",
+            "twxs.cmake",
+            "ms-vscode.cmake-tools"
+        ]
+    },
+
+    "folders": [
+        {
+            "name": "Modern Cpp",
+            "path": "${workspaceFolder}"
+        }
+    ],
+
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": [
+            
+        ]
+    },
+
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [],
+        "compounds": []
+    }
+}
