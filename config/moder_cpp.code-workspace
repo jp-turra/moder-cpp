@@ -10,7 +10,7 @@
     "folders": [
         {
             "name": "Modern Cpp",
-            "path": "${workspaceFolder}"
+            "path": "../"
         }
     ],
 
