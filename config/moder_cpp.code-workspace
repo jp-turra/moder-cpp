@@ -62,5 +62,13 @@
             }
         ],
         "compounds": []
+    },
+    "settings": {
+        "files.associations": {
+            "*.cpp": "cpp",
+            "*.c": "cpp",
+            "*.hpp": "cpp",
+            "*.h": "cpp"
+        }
     }
 }
